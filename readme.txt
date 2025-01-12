@@ -1,8 +1,6 @@
 #Demo Git Repository
 this is the first file in the repo.
 
-##Ipsum Below
+##Website Contents
 
-ABS
-
-asd
+1. index.html
